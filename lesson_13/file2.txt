@@ -1,4 +1,6 @@
-hello i am writing in a file
+my name is arham
+i am writing something 
+this is a filehello i am writing in a file
 hi i am writing in a file
 hello i am writing in a file
 hi i am writing in a file
