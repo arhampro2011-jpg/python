@@ -18,7 +18,7 @@ print(f"you have received a discount of 0.25 the new price is {sales} the total 
 
 #part 3 is abt comparison operators
 print("is price less than 2",price<2)
-print("is quantity greater than or equal to 2",quantity >=2)
+print("is quantity greater than or equal to 2",quantity >=1)
 print("is price equal to 2",price==2)
 
 name=input("what is your name")

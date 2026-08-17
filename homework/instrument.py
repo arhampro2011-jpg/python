@@ -60,8 +60,7 @@ instrument_3 = Flute("Bamboo Flute", "Wind Instrument", "bamboo")
 
 
 # Displaying output
-print("===== Music Instrument Sound Show =====
-")
+print("===== Music Instrument Sound Show =====")
 
 instrument_1.display_info()
 instrument_1.play_sound()
