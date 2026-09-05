@@ -1,0 +1,11 @@
+Name,Age,City,Salary,Department,Email
+Rahul,21,Pune,35000,IT,rahul@gmail.com
+Priya,22,Mumbai,42000,HR,priya@gmail.com
+Amit,twenty,Pune,38000,IT,amit@gmail.com
+Sneha,23,pune,40000,IT,sneha@gmail
+Rahul,21,Pune,35000,IT,rahul@gmail.com
+Vikram,,Delhi,45000,Sales,vikram@gmail.com
+,25,Mumbai,invalid,HR,unknown
+Anjali,24,,50000,IT,anjali@gmail.com
+Rohan,22,Delhi,,Sales,
+Priya,22,Mumbai,42000,HR,priya@gmail.com
