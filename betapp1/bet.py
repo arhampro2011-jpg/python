@@ -7,7 +7,7 @@ from datetime import datetime
 APP_DIR = os.path.dirname(os.path.abspath(__file__))
 DATA_FILE = os.path.join(APP_DIR, "betcoin_data.json")
 
-DEFAULT_STARTING_BALANCE = 1000
+DEFAULT_STARTING_BALANCE = 5000
 
 
 def now():
